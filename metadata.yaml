@@ -1,0 +1,46 @@
+_repo: Boesman-Stories-Deel-1-Mitologie-en-legendes_62330
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Keet, R. F.
+    gutenberg_agent_id: '51900'
+    url: http://www.gutenberg.org/2009/agents/51900
+creator:
+  author:
+    agent_name: Von Wielligh, G. R. (Gideon Retief)
+    aliases:
+    - Wielligh, Gideon Retief von
+    - Von Wiellich, G. R. (Gideon Retief)
+    - Wielligh, G. R. von
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '51899'
+    url: http://www.gutenberg.org/2009/agents/51899
+    wikipedia: https://af.wikipedia.org/wiki/G.R._von_Wielligh
+description: ''
+gutenberg_issued: '2020-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62330'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Africa, Southern'
+- !lcc 'GR'
+- !lcsh 'San (African people) -- Folklore'
+- GITenberg
+tableOfContents: '''n Paar Woorde vooraf -- Hoe Boesmans Stories vertel -- Nag en
+  Duisternis en hulle drie Dogters -- Die Berge is die oudste Dogter -- Die Wind en
+  die Windvoël -- Die Weerklank of Echo -- Die Vlaktes is die tweede Dogter -- Die
+  Vuur en die ''Nu-Fees -- Die Opgewing of Lugspiegeling -- Die Waters is die jongste
+  Dogter -- Die Reënbees en die Bobiaan -- Die groot Waterslang -- Die Son is die
+  Kop van Danser Vuurman -- Die Maan is die Skoen van die Hotnotsgod -- Die Sterre
+  is Kole en As -- Die Hamerkopvoël en die Paddas -- Die Uil en die Muise -- Die Reënboog
+  -- Die Hotnotsgod en Bobiane baklei -- Die Meid van die Waters -- Die geniepsigheid
+  van die Skilpad -- Die Môrester is die Hart van Dageraad -- Die Aandster is die
+  Oog van Aandskemering -- Dampertjie en Spuitertjie skiet met Weerlig -- Die Diere
+  vra om Kos en Water -- Boesman-Gebede -- Naberig.'
+title: Boesman-Stories. Deel 1, Mitologie en legendes
+url: http://www.gutenberg.org/ebooks/62330
